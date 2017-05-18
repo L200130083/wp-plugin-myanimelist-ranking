@@ -1,0 +1,8 @@
+a:2:{s:4:"time";i:1494978193;s:4:"data";s:423:"<span itemscope itemtype="http://schema.org/Product">
+   <b itemprop="name">testote</b><br /> 
+   <span itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating">
+      Score : <span itemprop="ratingValue">8.03</span> (scored by <span itemprop="ratingCount">67164</span> users)
+      <meta itemprop="bestRating" content="10">
+      <meta itemprop="worstRating" content="1">
+   </span>
+</span>";}
